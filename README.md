@@ -1,7 +1,6 @@
 
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Android developer from India</h3>
 <img align="right" alt="coding" width="400" src="<h1 align="center">Hi 👋, I'm Rahul Kumar Maury</h1>
-<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-kumar-09&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-kumar-09" /> </p>
 
